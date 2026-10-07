@@ -23,7 +23,7 @@ A Claude skill that coaches team leads who are accountable for results without f
 
 ## Install
 
-**Claude apps (web, desktop, mobile):** download `leadership-playbook.zip` from the [latest release](../../releases/latest) and upload it in your Skills settings.
+**Claude apps (web, desktop, mobile):** download [`leadership-playbook.zip`](leadership-playbook.zip?raw=true) and upload it in your Skills settings.
 
 **Claude Code:**
 
@@ -34,6 +34,7 @@ git clone https://github.com/Brendan2002/leadership-playbook ~/.claude/skills/le
 ## What's inside
 
 ```
+leadership-playbook.zip       # ready-to-upload copy of the skill for Claude apps
 SKILL.md                      # when to use it, the situation router, how to answer
 references/
 ├── good-to-great.md
