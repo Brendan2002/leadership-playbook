@@ -13,7 +13,14 @@ In practice: face gaps early, build other people's capability, protect the high-
 
 ## Your context (optional)
 
-If the user has added a section here or in memory describing their team, role, tools and constraints, use it. Otherwise ask one short question when an answer depends on it (team size, who decides what, how work is scheduled).
+Fill this in to get sharper answers. Use what's here or in memory; if it's blank and an answer depends on it, ask one short question.
+
+- **Role:**
+- **Team:** (size, roles, experience levels)
+- **I decide:**
+- **Management or other departments decide:**
+- **Where work is tracked:** (schedule, sheets, tools)
+- **Current goal for the team:**
 
 ## 1. Route the situation to a framework
 
